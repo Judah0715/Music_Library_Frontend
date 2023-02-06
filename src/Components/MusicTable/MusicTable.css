@@ -1,0 +1,62 @@
+.index-col {
+    text-decoration: none;
+    text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+}
+
+.release_date-col{
+    font-family: sans-serif;
+    text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+
+}
+
+.genre-col{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-right: 4rem;
+}
+
+.album-col{
+     font-family: sans-serif;
+     text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+}
+
+.artist-col{
+     font-family: sans-serif;
+     margin: 1rem;
+     text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+
+}
+
+.title-col{
+     font-family: sans-serif;
+     margin: 1rem;
+     text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+}
+
+.table{
+     background-color:white;
+     margin-left:50rem;
+     box-shadow: 4px 4px 8px grey;
+     border-radius: 25px;
+     padding: 20px;
+     text-decoration: none;
+         
+}
+
+
+tbody th,
+td {
+  text-align: center;
+  padding: 10px;
+}
